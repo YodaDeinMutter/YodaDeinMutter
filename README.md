@@ -8,7 +8,7 @@
     
 - <html>
     <head>
-        <title>Example</title>
+        <p>Example</p>
     </head>
     <body>
         <p>Hello github</p>
